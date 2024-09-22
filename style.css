@@ -6,8 +6,24 @@ body{
     top: 70px;
 }
 .menu-sub{
+    padding: 10px 20px 10px 20px;
     background-color: white;
     display: flex;
+}
+.coffee{
+    margin-right: 30px;
+    padding-left: 10px;
+    border: 1px solid;
+}
+.tea{
+    margin-right: 30px;
+    padding-left: 10px;
+    border: 1px solid;
+}
+.hotdrinks{
+    margin-right: 30px;
+    padding-left: 10px;
+    border: 1px solid;
 }
 .nav{
     width: 100%;
